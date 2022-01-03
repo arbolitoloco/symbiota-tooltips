@@ -13,6 +13,13 @@
           "name": "Catalog Number",
           "source": "Darwin Core Quick Reference Guide, TDWG"
         }
+      },
+      "related": {
+        "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#catalogNumber",
+        "meta": {
+          "name": "Symbiota Data Fields",
+          "source": "Symbmiota Docs, Symbiota Support Hub"
+        }
       }
     }
   }
