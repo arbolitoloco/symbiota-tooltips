@@ -2,7 +2,7 @@
   {
     "id": "catalogNumber",
     "tooltip": {
-      "en": "Catalog Number: The unique identifier (primary key) for the specimen record. This field should be used to store the barcode or the accession number (herbaria only). This field is enforced to be unique per collection. Ex: WIS-L-0123456, ASU0012345, 12345. See Darwin Core’s <a href='https://dwc.tdwg.org/terms/#dwc:catalogNumber' target='_blank' rel='noopener noreferrer'>catalogNumber</a>.",
+      "en": "Catalog Number: The unique identifier (primary key) for the specimen record. This field should be used to store the barcode or the accession number (herbaria only). This field is enforced to be unique per collection. Ex: WIS-L-0123456, ASU0012345, 12345. See Darwin Core’s catalogNumber.",
       "es": "",
       "pt": ""
     },
@@ -18,7 +18,7 @@
         "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#catalogNumber",
         "meta": {
           "name": "Symbiota Data Fields",
-          "source": "Symbmiota Docs, Symbiota Support Hub"
+          "source": "Symbiota Docs, Symbiota Support Hub"
         }
       }
     }
