@@ -6,15 +6,15 @@
       "es": "",
       "pt": ""
     },
-    "links": {
-      "related": {
+    "resources": {
+      "dwc": {
         "href": "http://dwc.tdwg.org/terms/#dwc:catalogNumber",
         "meta": {
           "name": "Catalog Number",
           "source": "Darwin Core Quick Reference Guide, TDWG"
         }
       },
-      "related": {
+      "symbdocs": {
         "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#catalogNumber",
         "meta": {
           "name": "Symbiota Data Fields",
