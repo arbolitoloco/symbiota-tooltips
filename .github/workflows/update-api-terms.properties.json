@@ -1,5 +1,5 @@
 {
-  "name": "Static Open API Kit CI - Update terms endpoints",
+  "name": "Updates Terms Endpoints",
   "description": "Workflow to update JSON files served by Symbiota Tooltips terms API",
   "categories": ["Python"]
 }

@@ -1,4 +1,4 @@
-name: Static Open API Kit CI - Update "terms" endpoints
+name: Updates Terms Endpoints
 
 on:
   #schedule: - cron: "0 0 * * *" #runs at 00:00 UTC everyday
