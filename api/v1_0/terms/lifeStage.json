@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "lifeStage",
+        "fullterm": "Life Stage",
+        "tooltip": {
+            "en": "The age or stage of the organism at the time of collection/observation. Typically used for zoological collections. Example(s): larva, juvenile. See Darwin Core's lifeStage.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/lifeStage",
+                "meta": {
+                    "name": "Life Stage",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#lifeStage",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

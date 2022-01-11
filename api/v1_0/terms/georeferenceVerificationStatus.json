@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "georeferenceVerificationStatus",
+        "fullterm": "Georef Verificiation Status",
+        "tooltip": {
+            "en": "Indicates whether or not the georeference has been reviewed or verified. Example(s): reviewed, not reviewed. See Darwin Core's georeferenceVerificationStatus.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/georeferenceVerificationStatus",
+                "meta": {
+                    "name": "Georef Verificiation Status",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#georeferenceVerificationStatus",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

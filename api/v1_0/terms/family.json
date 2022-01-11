@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "family",
+        "fullterm": "Family",
+        "tooltip": {
+            "en": "The family to which the taxa belongs. This field autofills after entering the scientific name as long as the taxon exists in the taxonomic thesaurus. Example(s): Pinaceae, Asteraceae. See Darwin Core's family.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/family",
+                "meta": {
+                    "name": "Family",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#family",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

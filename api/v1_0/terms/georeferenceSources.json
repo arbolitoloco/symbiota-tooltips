@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "georeferenceSources",
+        "fullterm": "Georeference Sources",
+        "tooltip": {
+            "en": "The tool or tools used to georeference. Example(s): GeoLocate, Google Earth, USGS map. See Darwin Core's georeferenceSources.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/georeferenceSources",
+                "meta": {
+                    "name": "Georeference Sources",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#georeferenceSources",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

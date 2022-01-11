@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "taxonRemarks",
+        "fullterm": "Taxon Remarks",
+        "tooltip": {
+            "en": "Any additional notes regarding the taxonomic name to which the specimen was identify. See Darwin Core's taxonRemarks.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/taxonRemarks",
+                "meta": {
+                    "name": "Taxon Remarks",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#taxonRemarks",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

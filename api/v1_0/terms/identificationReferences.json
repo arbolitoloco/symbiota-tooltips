@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "identificationReferences",
+        "fullterm": "ID References",
+        "tooltip": {
+            "en": "The reference source used to make the identification. Example(s): Nesom, Guy L. 2006. Flora of North America – Asteraceae. vol. 20. See Darwin Core's identificationReferences.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/identificationReferences",
+                "meta": {
+                    "name": "ID References",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#identificationReferences",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "county",
+        "fullterm": "County",
+        "tooltip": {
+            "en": "The name of the county in which the specimen was collected. Choose one from the drop down menu. For specimens collected outside of the United States, enter the next geographic region below state/province. Example(s): Maricopa. See Darwin Core's county.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/county",
+                "meta": {
+                    "name": "County",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#county",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

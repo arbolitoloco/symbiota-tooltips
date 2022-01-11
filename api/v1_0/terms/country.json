@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "country",
+        "fullterm": "Country",
+        "tooltip": {
+            "en": "The name of the country in which the specimen was collected. To aid data entry, a drop down menu will appear as one types, though names outside of the list can still be entered. Example(s): United States, Canada, Mexico. See Darwin Core's country.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/country",
+                "meta": {
+                    "name": "Country",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#country",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

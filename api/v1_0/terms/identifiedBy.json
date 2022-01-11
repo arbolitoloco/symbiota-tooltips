@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "identifiedBy",
+        "fullterm": "Identified By",
+        "tooltip": {
+            "en": "The name of the person who identified the specimen. Also called a determiner. Example(s): L. R. Landrum. See Darwin Core's identifiedBy.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/identifiedBy",
+                "meta": {
+                    "name": "Identified By",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#identifiedBy",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

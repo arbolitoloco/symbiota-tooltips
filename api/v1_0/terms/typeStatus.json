@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "typeStatus",
+        "fullterm": "Type Status",
+        "tooltip": {
+            "en": "The type designation of a specimen, if it is a type specimen Example(s): HOLOTYPE, ISOTYPE, PARATYPE. See Darwin Core's typeStatus.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/typeStatus",
+                "meta": {
+                    "name": "Type Status",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#typeStatus",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

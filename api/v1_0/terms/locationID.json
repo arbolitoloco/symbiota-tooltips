@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "locationID",
+        "fullterm": "Location ID",
+        "tooltip": {
+            "en": "An identifier for the set of location information (data associated with dcterms:Location). May be a global unique identifier or an identifier specific to the data set. Example(s): https://opencontext.org/subjects/ 768A875F-E205-4D0B-DE55-BAB7598D0FD1. See Darwin Core's locationID.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/locationID",
+                "meta": {
+                    "name": "Location ID",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#locationID",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

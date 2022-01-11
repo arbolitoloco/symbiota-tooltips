@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "reproductiveCondition",
+        "fullterm": "Phenology (Reproductive Condition)",
+        "tooltip": {
+            "en": "The reproductive stage the specimen is in. Typically used for plant and fungal collections. Example(s): flower, fruit, sterile. See Darwin Core's reproductiveCondition.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/reproductiveCondition",
+                "meta": {
+                    "name": "Phenology (Reproductive Condition)",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#reproductiveCondition",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "locationRemarks",
+        "fullterm": "Location Remarks",
+        "tooltip": {
+            "en": "Comments or notes about the Location. Example(s): under water since 2005. See Darwin Core's locationRemarks.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/locationRemarks",
+                "meta": {
+                    "name": "Location Remarks",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#locationRemarks",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

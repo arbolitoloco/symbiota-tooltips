@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "occurrenceid",
+        "fullterm": "Occurrence Id",
+        "tooltip": {
+            "en": "This is the Global Unique Identification (GUID) for the specimen. This identification code should be stable and uniquely identify the specimen relative to all other specimens within the world. Example(s): 000866d2-c177-4648-a200-ead4007051b9, urn:catalog:UWBM:Bird:89776. See Darwin Core's occurrenceID.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/occurrenceID",
+                "meta": {
+                    "name": "Occurrence Id",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#occurrenceid",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

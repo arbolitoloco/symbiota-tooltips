@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "municipality",
+        "fullterm": "Municipality",
+        "tooltip": {
+            "en": "The name of the municipality in which the specimen was collected. For specimens collected outside of the United States, enter the 4th level geographic designation. Example(s): Paradise Valley, Tucson. See Darwin Core's municipality.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/municipality",
+                "meta": {
+                    "name": "Municipality",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#municipality",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

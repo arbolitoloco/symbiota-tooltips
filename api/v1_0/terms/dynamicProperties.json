@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "dynamicProperties",
+        "fullterm": "Dynamic Properties",
+        "tooltip": {
+            "en": "A list of additional measurements, facts, characteristics, or assertions about the specimen in a format that allows programmatic parsing of the data Example(s): awnLengthInMeters=0.014, heightInMeters=1.5, relativeHumidity=28, airTemperatureInC=22. See Darwin Core's dynamicProperties.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/dynamicProperties",
+                "meta": {
+                    "name": "Dynamic Properties",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#dynamicProperties",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

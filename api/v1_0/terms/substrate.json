@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "substrate",
+        "fullterm": "Substrate",
+        "tooltip": {
+            "en": "The substrate on which the specimen was collected. Mostly used for lichen and bryophyte specimens. Example(s): On basalt, trunk of oak. Darwin Core lumps this information into habitat.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/habitat",
+                "meta": {
+                    "name": "Substrate",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#substrate",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

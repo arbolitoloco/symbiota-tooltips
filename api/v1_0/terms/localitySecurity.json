@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "localitySecurity",
+        "fullterm": "Locality Security",
+        "tooltip": {
+            "en": "Checking the Locality Security checkbox will hide images and locality details below the level of county from unauthorized users. For more information about locality security in Symbiota, visit our Redacting Data page. This field is not defined by the Darwin Core standard.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "",
+                "meta": {
+                    "name": "Locality Security",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#localitySecurity",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "locality",
+        "fullterm": "Locality",
+        "tooltip": {
+            "en": "The detailed location in which the specimen was collected. Example(s): 9.5 miles NW of Sedona along Boynton Pass Rd. See Darwin Core's Locality.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/Locality",
+                "meta": {
+                    "name": "Locality",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#locality",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

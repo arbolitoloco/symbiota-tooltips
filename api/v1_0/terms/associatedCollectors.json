@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "associatedCollectors",
+        "fullterm": "Associated Collectors",
+        "tooltip": {
+            "en": "Other collectors that were present at the time of collection. Example(s): John R. Reeder, A. Nelson. This field is not defined by the Darwin Core standard, which places primary and secondary collectors concatenated the recordedBy field.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "",
+                "meta": {
+                    "name": "Associated Collectors",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#associatedCollectors",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

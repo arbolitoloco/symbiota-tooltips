@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "verbatimCoordinates",
+        "fullterm": "Verbatim Coordinates",
+        "tooltip": {
+            "en": "If the coordinates recorded on the specimen label are in a format other than decimal degrees, enter them here. Click the F (format) button to enter non-decimal formats (e.g., UTMs, degrees/minutes/seconds) and click Insert Coordinates. This will place the original format in Verbatim Coordinates and will auto-convert to decimal degrees in the Latitude and Longitude fields if these fields are blank. Click the “«” symbol to replace existing decimal values. Example(s): 34° 13.940′ N 112° 2.370′ W, 34d 13m 12.940s N 112d 20m 46.370s W, 12 420944E 4064025N, TRS: T40N R32E S29. See Darwin Core's verbatimCoordinates.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/verbatimCoordinates",
+                "meta": {
+                    "name": "Verbatim Coordinates",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#verbatimCoordinates",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

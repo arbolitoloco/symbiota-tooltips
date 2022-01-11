@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "fieldNumber",
+        "fullterm": "Field Number",
+        "tooltip": {
+            "en": "See Darwin Core's fieldNumber.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/fieldNumber",
+                "meta": {
+                    "name": "Field Number",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#fieldNumber",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

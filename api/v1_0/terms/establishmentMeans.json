@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "establishmentMeans",
+        "fullterm": "Establishment Means",
+        "tooltip": {
+            "en": "The state of establishment at the time of collection. Example(s): cultivated, invasive, native. See Darwin Core's establishmentMeans.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/establishmentMeans",
+                "meta": {
+                    "name": "Establishment Means",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#establishmentMeans",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

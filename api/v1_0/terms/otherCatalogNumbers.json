@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "otherCatalogNumbers",
+        "fullterm": "Other Catalog Numbers",
+        "tooltip": {
+            "en": "Any other identifier for a specimen record that is not the catalog number. This field is typically used to store the old catalog number for collections that are in the process of switching from one cataloging system to another (e.g. barcode system). Example(s): 12345. See Darwin Core's otherCatalogNumbers.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/otherCatalogNumbers",
+                "meta": {
+                    "name": "Other Catalog Numbers",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#otherCatalogNumbers",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "recordedBy",
+        "fullterm": "Collector",
+        "tooltip": {
+            "en": "The name of the person who collected the specimen or made the observation. Example(s): C.G. Pringle, Goodding, L.N. See Darwin Core's recordedBy.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/recordedBy",
+                "meta": {
+                    "name": "Collector",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#recordedBy",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

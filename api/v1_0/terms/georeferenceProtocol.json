@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "georeferenceProtocol",
+        "fullterm": "Georeference Protocol",
+        "tooltip": {
+            "en": "The source of the standards used to georeference. Example(s): Georeferencing Quick Guide. Zermoglio et al. 2020. See Darwin Core's georeferenceProtocol.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/georeferenceProtocol",
+                "meta": {
+                    "name": "Georeference Protocol",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#georeferenceProtocol",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

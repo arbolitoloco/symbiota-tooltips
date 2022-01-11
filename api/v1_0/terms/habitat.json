@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "habitat",
+        "fullterm": "Habitat",
+        "tooltip": {
+            "en": "The description of the habitat in which the specimen was collected. Example(s): Wet areas along a small stream in chaparral, roadside. See Darwin Core's habitat.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/habitat",
+                "meta": {
+                    "name": "Habitat",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#habitat",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

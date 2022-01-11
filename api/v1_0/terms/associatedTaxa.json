@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "associatedTaxa",
+        "fullterm": "Associated Taxa",
+        "tooltip": {
+            "en": "A list of the names of other species occurring with the collected specimen. Example(s): Quercus, Arctostaphylos, Ceanothus, Rhus, Eriogonum, Salvia. See Darwin Core's associatedTaxa.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/associatedTaxa",
+                "meta": {
+                    "name": "Associated Taxa",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#associatedTaxa",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

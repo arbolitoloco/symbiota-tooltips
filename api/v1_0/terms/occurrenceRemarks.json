@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "occurrenceRemarks",
+        "fullterm": "Notes",
+        "tooltip": {
+            "en": "Any additional notes regarding the specimen. This field often includes characteristics of the population, such as its frequency or rarity. See Darwin Core's occurrenceRemarks.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/occurrenceRemarks",
+                "meta": {
+                    "name": "Notes",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#occurrenceRemarks",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

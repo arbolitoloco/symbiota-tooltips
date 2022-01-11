@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "samplingProtocol",
+        "fullterm": "Sampling Protocol",
+        "tooltip": {
+            "en": "The names and references to methods used to collect or sample an occurrence Example(s): UV light trap, mist net, Takats et al. 2001. Guidelines for Nocturnal Owl Monitoring in North America. Beaverhill Bird Observatory and Bird Studies Canada, Edmonton, Alberta. 32 pp., http://www.bsc-eoc.org/download/Owl.pdf. See Darwin Core's samplingProtocol.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/samplingProtocol",
+                "meta": {
+                    "name": "Sampling Protocol",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#samplingProtocol",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

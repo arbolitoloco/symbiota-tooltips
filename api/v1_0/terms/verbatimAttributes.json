@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "verbatimAttributes",
+        "fullterm": "Description",
+        "tooltip": {
+            "en": "A physical description of the specimen at the time of collection. This often includes information that can be lost or difficult to observe after the collection and preservation process. Example(s): Shrub 3 m tall, corolla yellow. In a Darwin Core export, this is concatenated with occurrenceRemarks.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/occurrenceRemarks",
+                "meta": {
+                    "name": "Description",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#verbatimAttributes",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

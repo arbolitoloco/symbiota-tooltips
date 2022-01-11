@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "eventDate",
+        "fullterm": "Date",
+        "tooltip": {
+            "en": "The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as “00”. For example, a collection with a date of “March 1956” can be entered as “1956-03-00”. Example(s): 1983-09-15, 1983-07-00, 1934-00-00. See Darwin Core's eventDate.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/eventDate",
+                "meta": {
+                    "name": "Date",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#eventDate",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

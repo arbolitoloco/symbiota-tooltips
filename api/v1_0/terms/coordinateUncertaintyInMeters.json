@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "coordinateUncertaintyInMeters",
+        "fullterm": "Uncertainty (meters)",
+        "tooltip": {
+            "en": "The accuracy of the georeference coordinates in meters (numeric value only). This is measured as the radius of a circle where the true point would be found if known. Protocols for assigning error radii to georeference points can be found in this Georeference Quick Reference Guide. Example(s): 1500, 10000. See Darwin Core's coordinateUncertaintyInMeters.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/coordinateUncertaintyInMeters",
+                "meta": {
+                    "name": "Uncertainty (meters)",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#coordinateUncertaintyInMeters",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}
