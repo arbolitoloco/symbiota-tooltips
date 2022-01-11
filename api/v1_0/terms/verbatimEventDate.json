@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "verbatimEventDate",
+        "fullterm": "Verbatim Date",
+        "tooltip": {
+            "en": "This field can be used to record date exactly as entered on label. Particularly useful for non-standard date formats or date ranges. Example(s): Spring 1901, March-April 1952, late Sept. 1909. See Darwin Core's verbatimEventDate.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/verbatimEventDate",
+                "meta": {
+                    "name": "Verbatim Date",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#verbatimEventDate",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

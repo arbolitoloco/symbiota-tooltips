@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "dateIdentified",
+        "fullterm": "Date Identified",
+        "tooltip": {
+            "en": "The date the identification was made. Date can be entered as free form text and do not need to be in a standard date format. Example(s): 1992, May 1992, 2 May 1992. See Darwin Core's dateIdentified.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/dateIdentified",
+                "meta": {
+                    "name": "Date Identified",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#dateIdentified",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

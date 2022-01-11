@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "identificationRemarks",
+        "fullterm": "ID Remarks",
+        "tooltip": {
+            "en": "Any additional notes regarding the identification of the specimen. See Darwin Core's identificationRemarks.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/identificationRemarks",
+                "meta": {
+                    "name": "ID Remarks",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#identificationRemarks",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

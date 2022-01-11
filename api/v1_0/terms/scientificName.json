@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "scientificName",
+        "fullterm": "Scientific Name",
+        "tooltip": {
+            "en": "The Latin name of the specimen without the author. Could be anything from kingdom down to subspecies or variety, depending on the level of the identification. Example(s): Pinaceae, Pinus, Pinus edulis, Pinus edulis var. fallax. See Darwin Core's scientificName.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/scientificName",
+                "meta": {
+                    "name": "Scientific Name",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#scientificName",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

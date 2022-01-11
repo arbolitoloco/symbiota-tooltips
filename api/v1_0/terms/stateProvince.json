@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "stateProvince",
+        "fullterm": "State/Province",
+        "tooltip": {
+            "en": "The name of the state or province in which the specimen was collected. As one types, a selection list will appear for the given country. Example(s): New York, Arizona, Sonora. See Darwin Core's stateProvince.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/stateProvince",
+                "meta": {
+                    "name": "State/Province",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#stateProvince",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "individualCount",
+        "fullterm": "Individual Count",
+        "tooltip": {
+            "en": "The number of individuals in the occurrence Example(s): 36571. See Darwin Core's individualCount.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/individualCount",
+                "meta": {
+                    "name": "Individual Count",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#individualCount",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "ownerInstitutionCode",
+        "fullterm": "Owner Code",
+        "tooltip": {
+            "en": "The acronym of the owning institution. Only enter a value if the owning institution is different than what was entered when the metadata for the collection institution was added to the portal. Example(s): NPS, Forest Service. See Darwin Core's ownerInstitutionCode.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/ownerInstitutionCode",
+                "meta": {
+                    "name": "Owner Code",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#ownerInstitutionCode",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

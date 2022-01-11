@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "sex",
+        "fullterm": "Sex",
+        "tooltip": {
+            "en": "The biological sex of the occurrence. Example(s): female, male. See Darwin Core's sex.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/sex",
+                "meta": {
+                    "name": "Sex",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#sex",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

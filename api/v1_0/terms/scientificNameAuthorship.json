@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "scientificNameAuthorship",
+        "fullterm": "Author",
+        "tooltip": {
+            "en": "The name of the person who first named the taxon. This field autofills after entering the scientific name as long as that taxon is in the taxonomic thesaurus. Example(s): L., Asa A. Gray. See Darwin Core's scientificNameAuthorship.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/scientificNameAuthorship",
+                "meta": {
+                    "name": "Author",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#scientificNameAuthorship",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

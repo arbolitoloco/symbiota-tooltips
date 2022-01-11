@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "basisOfRecord",
+        "fullterm": "Basis of Record",
+        "tooltip": {
+            "en": "The type of record the specimen is classified as. For physical collections, this field defaults to “PreservedSpecimen” (aka herbarium specimen) and for observation projects, the default is “Observation”. Example(s): PreservedSpecimen, LivingSpecimen, Observation. See Darwin Core's basisOfRecord.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/basisOfRecord",
+                "meta": {
+                    "name": "Basis of Record",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#basisOfRecord",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

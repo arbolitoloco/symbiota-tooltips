@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "identificationQualifier",
+        "fullterm": "Identification Qualifier",
+        "tooltip": {
+            "en": "The determiner’s expression of uncertainty in their identification. This will be listed on the label along with the scientific name. Example(s): cf., aff. See Darwin Core's identificationQualifier.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/identificationQualifier",
+                "meta": {
+                    "name": "Identification Qualifier",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#identificationQualifier",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

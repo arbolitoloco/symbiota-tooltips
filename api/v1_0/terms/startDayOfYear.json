@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "startDayOfYear",
+        "fullterm": "",
+        "tooltip": {
+            "en": "",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "",
+                "meta": {
+                    "name": "",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#startDayOfYear",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

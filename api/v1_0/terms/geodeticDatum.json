@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "geodeticDatum",
+        "fullterm": "Datum",
+        "tooltip": {
+            "en": "The geographic system that was used to get the coordinates. This field autofills when using GeoLocate or the Google Maps tool for georeferencing. Example(s): NAD27, NAD83, WGS84. See Darwin Core's geodeticDatum.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/geodeticDatum",
+                "meta": {
+                    "name": "Datum",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#geodeticDatum",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

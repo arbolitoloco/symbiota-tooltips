@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "recordNumber",
+        "fullterm": "Number",
+        "tooltip": {
+            "en": "The collection number assigned to the specimen by the collector. Example(s): 1294, 12490b, 94-132. See Darwin Core's recordNumber.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/recordNumber",
+                "meta": {
+                    "name": "Number",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#recordNumber",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "disposition",
+        "fullterm": "Disposition",
+        "tooltip": {
+            "en": "The location or status of the physical specimen. Example(s): missing, on loan, cone collection. See Darwin Core's disposition.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/disposition",
+                "meta": {
+                    "name": "Disposition",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#disposition",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

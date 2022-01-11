@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "verbatimElevation",
+        "fullterm": "Verbatim Elevation",
+        "tooltip": {
+            "en": "The verbatim elevation at which the specimen was collected. This is typically used to record an elevation measurement that was recorded in feet or an uncertainty designation. When the elevation in meters field is left blank, the value will automatically be converted to meters if you press Tab after entering a value in this field. Click the “«” symbol to replace the previously entered meters values. Example(s): 4500ft, 4500 feet, ca 4500′, ca 2000m, 4500′ +-300′. See Darwin Core's verbatimElevation.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/verbatimElevation",
+                "meta": {
+                    "name": "Verbatim Elevation",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#verbatimElevation",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

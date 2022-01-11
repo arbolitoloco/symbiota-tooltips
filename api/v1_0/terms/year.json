@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "year",
+        "fullterm": "Year, Month, Day",
+        "tooltip": {
+            "en": "The numeric value of the year, month, and day at the time of collection. These fields are automatically populated when the date is entered. See Darwin Core's year, month, day.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/year; http://rs.tdwg.org/dwc/terms/month; http://rs.tdwg.org/dwc/terms/day",
+                "meta": {
+                    "name": "Year, Month, Day",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#year",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

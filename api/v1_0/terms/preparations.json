@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "preparations",
+        "fullterm": "Preparations",
+        "tooltip": {
+            "en": "Preparation or preservation method for a specimen Example(s): in ethanol, skeleton. See Darwin Core's preparations.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/preparations",
+                "meta": {
+                    "name": "Preparations",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#preparations",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

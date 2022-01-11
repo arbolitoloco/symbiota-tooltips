@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "minimumElevationInMeters",
+        "fullterm": "Elevation in Meters",
+        "tooltip": {
+            "en": "The elevation in meters at which the specimen was collected. Also called altitude. Use only the left field with the right field blank when a single elevation exists. Example(s): 1400, 2000-2200. See Darwin Core's minimumElevationInMeters, maximumElevationInMeters.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/minimumElevationInMeters; http://rs.tdwg.org/dwc/terms/maximumElevationInMeters",
+                "meta": {
+                    "name": "Elevation in Meters",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#minimumElevationInMeters",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

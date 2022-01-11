@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "minimumDepthInMeters",
+        "fullterm": "Depth in Meters",
+        "tooltip": {
+            "en": "The range of depth below the local surface, in meters. Example(s): 100, 150-200. See Darwin Core's minimumDepthInMeters, maximumDepthInMeters.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/minimumDepthInMeters; http://rs.tdwg.org/dwc/terms/maximumDepthInMeters",
+                "meta": {
+                    "name": "Depth in Meters",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#minimumDepthInMeters",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}

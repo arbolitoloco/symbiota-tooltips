@@ -1,0 +1,28 @@
+{
+    "data": {
+        "path": "terms",
+        "id": "verbatimDepth",
+        "fullterm": "Verbatim Depth",
+        "tooltip": {
+            "en": "The original verbatim description of the depth below the local surface at which the specimen was collected. Example(s): 100ft, 100 feet, ca 100′, ca 30m, 100′ +-10′. See Darwin Core's verbatimDepth.",
+            "es": "",
+            "pt": ""
+        },
+        "resources": {
+            "dwc": {
+                "href": "http://rs.tdwg.org/dwc/terms/verbatimDepth",
+                "meta": {
+                    "name": "Verbatim Depth",
+                    "source": "Darwin Core Quick Reference Guide, TDWG"
+                }
+            },
+            "symbdocs": {
+                "href": "https://biokic.github.io/symbiota-docs/editor/edit/fields/#verbatimDepth",
+                "meta": {
+                    "name": "Symbiota Data Fields",
+                    "source": "Symbiota Docs, Symbiota Support Hub"
+                }
+            }
+        }
+    }
+}
