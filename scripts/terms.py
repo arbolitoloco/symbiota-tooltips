@@ -7,7 +7,7 @@
 import os, csv, json
 # ***** Configure generator ******
 version = "1_0" # Version of the generator
-inputFilename = "nested.csv" # Name of the input file to be converted to json
+inputFilename = "terms.csv" # Name of the input file to be converted to json
 inputfile = os.path.abspath(os.path.join("data", inputFilename))
 
 def process(header, value, record):
