@@ -4,7 +4,7 @@
         "id": "verbatimEventDate",
         "fullterm": "Verbatim Date",
         "tooltip": {
-            "en": "This field can be used to record date exactly as entered on label. Particularly useful for non-standard date formats or date ranges. Example(s): Spring 1901, March-April 1952, late Sept. 1909. See Darwin Core's verbatimEventDate.",
+            "en": "Can be used to record date exactly as entered on label. Particularly useful for non-standard date formats or date ranges. Example(s): Spring 1901, March-April 1952, late Sept. 1909. See Darwin Core's verbatimEventDate.",
             "es": "",
             "pt": ""
         },
